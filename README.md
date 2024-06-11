@@ -1,6 +1,7 @@
-# river
+# Riverpod Api Call
 
-A new Flutter project.
+A new Flutter project on Riverpod State Management
+Calling Api using riverpod state management tool
 
 ## Getting Started
 
